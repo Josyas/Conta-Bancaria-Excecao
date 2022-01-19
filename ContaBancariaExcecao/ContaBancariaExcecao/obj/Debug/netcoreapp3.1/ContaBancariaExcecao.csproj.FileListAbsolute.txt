@@ -1,0 +1,14 @@
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\bin\Debug\netcoreapp3.1\ContaBancariaExcecao.exe
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\bin\Debug\netcoreapp3.1\ContaBancariaExcecao.deps.json
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\bin\Debug\netcoreapp3.1\ContaBancariaExcecao.runtimeconfig.json
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\bin\Debug\netcoreapp3.1\ContaBancariaExcecao.runtimeconfig.dev.json
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\bin\Debug\netcoreapp3.1\ContaBancariaExcecao.dll
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\bin\Debug\netcoreapp3.1\ContaBancariaExcecao.pdb
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.csproj.AssemblyReference.cache
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.AssemblyInfoInputs.cache
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.AssemblyInfo.cs
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.dll
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.pdb
+D:\VisualStudioProjetos\ContaBancariaExcecao\ContaBancariaExcecao\obj\Debug\netcoreapp3.1\ContaBancariaExcecao.genruntimeconfig.cache
